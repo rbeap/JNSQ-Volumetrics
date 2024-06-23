@@ -10,3 +10,4 @@ Volumetrics support for JNSQ
 - EVE Redux Release 4
 - ModuleManager
 - Scatterer
+- JNSQ (obviously)
